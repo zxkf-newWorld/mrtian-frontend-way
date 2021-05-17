@@ -1,0 +1,16 @@
+{
+  "name": "Front-end-of-mrtian",
+  "version": "1.0.0",
+  "description": "天净若风的前端之路",
+  "main": "index.js",
+  "repository": "git@github.com:zxkf-newWorld/mrtian-frontend-way.git",
+  "author": "zxkf-newWorld",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "vuepress dev docs",
+    "build" : "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
