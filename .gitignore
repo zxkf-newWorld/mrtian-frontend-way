@@ -4,7 +4,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,node
 
 ### Node ###
-.travis.yml
+# .travis.yml
 # Logs
 logs
 *.log
