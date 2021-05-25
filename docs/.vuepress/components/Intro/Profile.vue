@@ -1,7 +1,7 @@
 <!--
  * @Author: hp
  * @Date: 2021-05-24 10:34:54
- * @LastEditTime: 2021-05-24 10:40:28
+ * @LastEditTime: 2021-05-25 11:21:58
  * @LastEditors: your name
  * @Description: 自画像
  * @FilePath: /mrtian-frontend-way/docs/.vuepress/components/Intro/Profile.vue
@@ -23,9 +23,8 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-.profile {
-	background: #ccc;
-}
+<style lang="stylus" scoped>
+.profile
+	background #ccc
 </style>
 
