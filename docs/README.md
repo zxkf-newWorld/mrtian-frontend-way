@@ -4,3 +4,5 @@
 [bar - three](../bar/three.md) <!-- 具体文件可以使用 .md 结尾（推荐） -->
 [bar - four](../bar/four.html) <!-- 也可以用 .html -->
 :tada: :100:
+
+<Intro-Profile></Intro-Profile>
